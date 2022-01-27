@@ -1,0 +1,13 @@
+.service {
+  text-decoration: none;
+  color: unset;
+  transition-property: all;
+  transition-timing-function: ease-in;
+  display: block;
+  .title {
+    display: block;
+  }
+  .description {
+    display: block;
+  }
+}

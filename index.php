@@ -1,0 +1,2 @@
+<?php
+//scilence is golden
